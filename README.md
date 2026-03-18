@@ -62,21 +62,23 @@ The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
-
 **Isolation measurement** (Tabulation)
+<img width="1032" height="283" alt="image" src="https://github.com/user-attachments/assets/59b54a17-84d0-4158-9923-dcf001597772" />
 
 **Measurement of power division** (Tabulation)
+<img width="1020" height="265" alt="image" src="https://github.com/user-attachments/assets/b75f6f39-8e77-4cfa-9a66-ac518b9dcc41" />
 
 
 **G.	Analysis of Results: (Write your own)**
 
+The measured power distribution showed correct sum and difference behavior between the E-arm and H-arm. A strong output at the sum port and a reduced/null output at the difference port confirmed proper phase characteristics. Slight deviations from ideal values occurred due to mismatching and insertion losses. Overall, the Magic Tee operated as expected for power combining and dividing.
 (Include sample calculations/Display/plot/typical graph)
 
 **H.	Conclusions: (Write your Own)**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716mV
 **Precautions:**
 
 •	Check the connections before switching on the kit.
@@ -84,3 +86,5 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+
+ The Magic Tee correctly demonstrated sum and difference power behavior, with higher power at the sum port and reduced or null power at the difference port, validating its proper operation.
